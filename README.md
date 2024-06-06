@@ -1,3 +1,3 @@
 # Machine-learning
-## In Syed_machine I did partioning clustering 
-## In mlp I did Multi-layer Perceptron Neural Network
+### In Syed_machine I did partitioning clustering 
+### In mlp I did a Multi-layer Perceptron Neural Network
